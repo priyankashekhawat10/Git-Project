@@ -58,7 +58,7 @@ function Home() {
 
             <p>
               Discover premium beauty products, skincare essentials,
-              makeup collections and amazing offers.
+              makeup collections and amazing updatedgit checkout homepage-pr.
             </p>
 
             <button>Shop Now</button>
